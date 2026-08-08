@@ -4,7 +4,7 @@
   
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&color=FFB7C5&center=true&vCenter=true&width=900&lines=Froilan+Aguipo;Information+Technology+Student;The+Analyst:+Hyposelenia;I'll+become+the+Greatest+Inventor;Still+Learning;Hi+Sarah+Giamat<3;My+heart+is,+and+always+will+be,+yours." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&color=FFB7C5&center=true&vCenter=true&width=900&lines=Froilan+Aguipo;Information+Technology+Student;The+Analyst:+Hyposelenia;I'll+become+the+Greatest+Inventor;Still+Learning;Hi+Kaoruko+Waguri<3;My+heart+is,+and+always+will+be,+yours." />
 </p>
   
 
