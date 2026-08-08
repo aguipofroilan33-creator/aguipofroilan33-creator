@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF66C4,100:FFC0CB&height=160&section=header&animation=fadeIn"/>
+</p>
+
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVmZGZqN3Vtd2pkdTl0OWkzbzhuZ2hlZGY0cDJsM2c1bmVjbnR1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UCJm4q4yvsfory45lI/giphy.gif" align="center" style="width: 100%" />
 </div>  
