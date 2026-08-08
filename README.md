@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">HI I'm Aguipo nice to be here</div>  
+### <div align="center">HI I'm Aguipo nice to be here 🌹🌹🌹</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
@@ -12,10 +12,10 @@
 - 🌱 I’m currently learning JAVA and codings  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🌸 I love anime/novel/manhwa  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I love to eat much  
   
 
 <br/>  
