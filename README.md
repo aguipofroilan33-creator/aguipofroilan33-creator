@@ -124,7 +124,7 @@ If things goes well, this section should automatically be replaced by a list of 
 </p>
 
 <p align="center">
-  <img src="[https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydXhkZ3A5dGhyMnA3ZG5sZ2swYnFvMW4xM294OHh5YnZuOThvZm94ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uU8IHAFVDVhks/200w.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBvZm5va2Rja3F0enI4M2psNXdmNTBtM2puZDllajNqdWhsc2hvMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ctXLLko0OadX1rCGnk/giphy.gif)" width="25%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBvZm5va2Rja3F0enI4M2psNXdmNTBtM2puZDllajNqdWhsc2hvMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ctXLLko0OadX1rCGnk/giphy.gif" width="25%" />
 </p>
 
 <p align="center">
