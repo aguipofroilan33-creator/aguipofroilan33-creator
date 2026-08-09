@@ -26,17 +26,31 @@
 
 <br/>  
 
+<h2 align="center">🌙 Tech Stack</h2>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,php,mysql" /><br>
+  <span style="color:#FF66C4;"><b>Java</b> 🌸 <b>Python</b> 🌸 <b>C</b> 🌸 <b>PHP</b> 🌸 <b>MySQL</b></span>
+</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,arduino,androidstudio,kali" /><br>
+  <span style="color:#FF66C4;"><b>HTML5</b> 🌸 <b>CSS3</b> 🌸 <b>Arduino</b> 🌸 <b>Android Studio</b> 🌸 <b>Kali Linux</b></span>
+</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,robloxstudio" /><br>
+  <span style="color:#FF66C4;"><b>GitHub</b> 🌸 <b>Git</b> 🌸 <b>VS Code</b> 🌸 <b>Visual Studio</b> 🌸 <b>Roblox Studio</b></span>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-1A1A2E?style=for-the-badge&logo=nmap&logoColor=FF1744" height="48"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=white" height="48"/><br>
+  <span style="color:#FF66C4;"><b>Nmap</b> 🌸 <b>Wireshark</b> 🌸 <b>Ghidra</b></span>
+</p>
 
-</td></tr></table>  
-
-<br/>  
-
+---
 
 ## Connect with me  
 <div align="center">
