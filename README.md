@@ -119,14 +119,18 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=4000&pause=1000&color=FF66C4&center=true&vCenter=true&width=600&lines=Thank+you+for+stopping+by+!;Have+a+wonderful+day+!;Keep+Exploring+!;Discover+more+of+life+!;Keep+creating+and+inventing+🌸" />
+</p>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydXhkZ3A5dGhyMnA3ZG5sZ2swYnFvMW4xM294OHh5YnZuOThvZm94ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uU8IHAFVDVhks/200w.gif" width="25%" />
+</p>
+
+<p align="center">
+  <i>"࣪ ִֶָ☾. The World gets harsher by every minute, but I'll be softer for you, my love. ₊˚.🌹⋆⁺₊"</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF66C4,100:FF1493&height=160&section=footer"/>
+</p>
